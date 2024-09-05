@@ -28,8 +28,8 @@
     - Allocation with new  **(FINISHED)**
     - Constructors and composite literals  **(FINISHED)**
     - Allocation with make  **(FINISHED)**
-    - Arrays
-    - Slices
+    - Arrays **(FINISHED)**
+    - Slices **(FINISHED)**
     - Two-dimensional slices
     - Maps
     - Printing
