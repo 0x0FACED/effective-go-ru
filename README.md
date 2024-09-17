@@ -34,11 +34,11 @@
     - Maps
     - Printing
     - Append
-9. Initialization **(IN PROGRESS)**
+9. Initialization **(FINISHED)**
     - Constants
     - Variables
     - The init function
-10. Methods
+10. Methods **(IN PROGRESS)**
     - Pointers vs. Values
 11. Interfaces and other types
     - Interfaces
