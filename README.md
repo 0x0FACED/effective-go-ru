@@ -24,17 +24,17 @@
     - Multiple return values
     - Named result parameters
     - Defer
-8. Data **(IN PROGRESS)**
-    - Allocation with new  **(FINISHED)**
-    - Constructors and composite literals  **(FINISHED)**
-    - Allocation with make  **(FINISHED)**
-    - Arrays **(FINISHED)**
-    - Slices **(FINISHED)**
+8. Data **(FINISHED)**
+    - Allocation with new 
+    - Constructors and composite literals
+    - Allocation with make
+    - Arrays
+    - Slices
     - Two-dimensional slices
     - Maps
     - Printing
     - Append
-9. Initialization
+9. Initialization **(IN PROGRESS)**
     - Constants
     - Variables
     - The init function
