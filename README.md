@@ -40,13 +40,13 @@
     - The init function
 10. Methods **(FINISHED)**
     - Pointers vs. Values
-11. Interfaces and other types **(IN PROGRESS)**
+11. Interfaces and other types **(FINISHED)**
     - Interfaces
     - Conversions
     - Interface conversions and type assertions
     - Generality
     - Interfaces and methods
-12. The blank identifier
+12. The blank identifier **(IN PROGRESS)**
     - The blank identifier in multiple assignment
     - Unused imports and variables
     - Import for side effect
