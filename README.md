@@ -38,9 +38,9 @@
     - Constants
     - Variables
     - The init function
-10. Methods **(IN PROGRESS)**
+10. Methods **(FINISHED)**
     - Pointers vs. Values
-11. Interfaces and other types
+11. Interfaces and other types **(IN PROGRESS)**
     - Interfaces
     - Conversions
     - Interface conversions and type assertions
