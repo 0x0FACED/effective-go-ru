@@ -46,12 +46,12 @@
     - Interface conversions and type assertions
     - Generality
     - Interfaces and methods
-12. The blank identifier **(IN PROGRESS)**
+12. The blank identifier **(FINISHED)**
     - The blank identifier in multiple assignment
     - Unused imports and variables
     - Import for side effect
     - Interface checks
-13. Embedding
+13. Embedding **(IN PROGRESS)**
 14. Concurrency
     - Share by communicating
     - Goroutines
