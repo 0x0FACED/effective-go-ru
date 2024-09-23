@@ -52,14 +52,14 @@
     - Import for side effect
     - Interface checks
 13. Embedding **(FINISHED)**
-14. Concurrency **(IN PROGRESS)**
+14. Concurrency **(FINISHED)**
     - Share by communicating
     - Goroutines
     - Channels
     - Channels of channels
     - Parallelization
     - A leaky buffer
-15. Errors
+15. Errors **(IN PROGRESS)**
     - Panic
     - Recover
 16. A web server
