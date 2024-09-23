@@ -1,6 +1,6 @@
-# Effective Go in Russian
+# Effective Go Russian (Эффективный Go)
 
-[Перевод](./effective_go_ru.md)
+За переводом сюда ---> [Перевод](./effective_go_ru.md)
 
 ### Table of Contents
 
@@ -51,8 +51,8 @@
     - Unused imports and variables
     - Import for side effect
     - Interface checks
-13. Embedding **(IN PROGRESS)**
-14. Concurrency
+13. Embedding **(FINISHED)**
+14. Concurrency **(IN PROGRESS)**
     - Share by communicating
     - Goroutines
     - Channels
