@@ -1,10 +1,10 @@
-# Effective Go (Translated to Russian)
+# Effective Go (На русском языке)
 
 Это переведенный на русский язык Effective Go.
 
 ## Содержание
 
-- [Effective Go (Translated to Russian)](#effective-go-translated-to-russian)
+- [Effective Go (На русском языке)](#effective-go-на-русском-языке)
   - [Содержание](#содержание)
   - [Введение](#введение)
     - [Примеры](#примеры)
