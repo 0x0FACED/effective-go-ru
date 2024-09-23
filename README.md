@@ -59,7 +59,7 @@
     - Channels of channels
     - Parallelization
     - A leaky buffer
-15. Errors **(IN PROGRESS)**
+15. Errors **(FINISHED)**
     - Panic
     - Recover
-16. A web server
+16. A web server **(FINISHED)**
